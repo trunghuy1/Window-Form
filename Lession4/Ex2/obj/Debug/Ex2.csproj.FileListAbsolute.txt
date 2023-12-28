@@ -1,0 +1,14 @@
+G:\lapwind\Lession4\Ex2\bin\Debug\Ex2.exe.config
+G:\lapwind\Lession4\Ex2\bin\Debug\Ex2.exe
+G:\lapwind\Lession4\Ex2\bin\Debug\Ex2.pdb
+G:\lapwind\Lession4\Ex2\obj\Debug\MainWindow.g.cs
+G:\lapwind\Lession4\Ex2\obj\Debug\App.g.cs
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2_MarkupCompile.cache
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2_MarkupCompile.lref
+G:\lapwind\Lession4\Ex2\obj\Debug\MainWindow.baml
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2.g.resources
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2.exe
+G:\lapwind\Lession4\Ex2\obj\Debug\Ex2.pdb

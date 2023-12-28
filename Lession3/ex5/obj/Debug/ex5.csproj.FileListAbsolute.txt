@@ -1,0 +1,6 @@
+G:\FileCodeWindow\lap\Lession3\ex5\bin\Debug\ex5.exe.config
+G:\FileCodeWindow\lap\Lession3\ex5\bin\Debug\ex5.exe
+G:\FileCodeWindow\lap\Lession3\ex5\bin\Debug\ex5.pdb
+G:\FileCodeWindow\lap\Lession3\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+G:\FileCodeWindow\lap\Lession3\ex5\obj\Debug\ex5.exe
+G:\FileCodeWindow\lap\Lession3\ex5\obj\Debug\ex5.pdb

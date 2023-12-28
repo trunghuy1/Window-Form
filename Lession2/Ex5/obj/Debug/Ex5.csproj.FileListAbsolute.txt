@@ -1,0 +1,5 @@
+M:\PW\Lession2\Ex5\bin\Debug\Ex5.exe.config
+M:\PW\Lession2\Ex5\bin\Debug\Ex5.exe
+M:\PW\Lession2\Ex5\bin\Debug\Ex5.pdb
+M:\PW\Lession2\Ex5\obj\Debug\Ex5.exe
+M:\PW\Lession2\Ex5\obj\Debug\Ex5.pdb

@@ -1,0 +1,7 @@
+G:\FileCodeWindow\lap\Lession3\ex2\bin\Debug\ex2.exe.config
+G:\FileCodeWindow\lap\Lession3\ex2\bin\Debug\ex2.exe
+G:\FileCodeWindow\lap\Lession3\ex2\bin\Debug\ex2.pdb
+G:\FileCodeWindow\lap\Lession3\ex2\obj\Debug\ex2.csproj.AssemblyReference.cache
+G:\FileCodeWindow\lap\Lession3\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+G:\FileCodeWindow\lap\Lession3\ex2\obj\Debug\ex2.exe
+G:\FileCodeWindow\lap\Lession3\ex2\obj\Debug\ex2.pdb

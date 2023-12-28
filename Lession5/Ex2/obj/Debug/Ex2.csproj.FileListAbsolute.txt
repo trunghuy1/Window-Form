@@ -1,0 +1,15 @@
+G:\EXC\WindowPractice\Lession5\Ex2\bin\Debug\Ex2.exe.config
+G:\EXC\WindowPractice\Lession5\Ex2\bin\Debug\Ex2.exe
+G:\EXC\WindowPractice\Lession5\Ex2\bin\Debug\Ex2.pdb
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\MainWindow.g.cs
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\App.g.cs
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2_MarkupCompile.cache
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2_MarkupCompile.lref
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\MainWindow.baml
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2.g.resources
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2.exe
+G:\EXC\WindowPractice\Lession5\Ex2\obj\Debug\Ex2.pdb

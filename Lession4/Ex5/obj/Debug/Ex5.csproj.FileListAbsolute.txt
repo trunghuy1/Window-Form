@@ -1,0 +1,15 @@
+G:\lapwind\Lession4\Ex5\bin\Debug\Ex5.exe.config
+G:\lapwind\Lession4\Ex5\bin\Debug\Ex5.exe
+G:\lapwind\Lession4\Ex5\bin\Debug\Ex5.pdb
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+G:\lapwind\Lession4\Ex5\obj\Debug\MainWindow.g.cs
+G:\lapwind\Lession4\Ex5\obj\Debug\App.g.cs
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5_MarkupCompile.cache
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5_MarkupCompile.lref
+G:\lapwind\Lession4\Ex5\obj\Debug\MainWindow.baml
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5.g.resources
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5.Properties.Resources.resources
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5.csproj.GenerateResource.cache
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5.exe
+G:\lapwind\Lession4\Ex5\obj\Debug\Ex5.pdb

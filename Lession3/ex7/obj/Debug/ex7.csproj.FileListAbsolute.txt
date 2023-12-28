@@ -1,0 +1,7 @@
+G:\FileCodeWindow\lap\Lession3\ex7\bin\Debug\ex7.exe.config
+G:\FileCodeWindow\lap\Lession3\ex7\bin\Debug\ex7.exe
+G:\FileCodeWindow\lap\Lession3\ex7\bin\Debug\ex7.pdb
+G:\FileCodeWindow\lap\Lession3\ex7\obj\Debug\ex7.csproj.AssemblyReference.cache
+G:\FileCodeWindow\lap\Lession3\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+G:\FileCodeWindow\lap\Lession3\ex7\obj\Debug\ex7.exe
+G:\FileCodeWindow\lap\Lession3\ex7\obj\Debug\ex7.pdb

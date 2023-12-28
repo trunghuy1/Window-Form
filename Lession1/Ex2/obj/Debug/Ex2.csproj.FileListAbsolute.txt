@@ -1,0 +1,5 @@
+M:\PW\Ex1\Ex2\bin\Debug\Ex2.exe.config
+M:\PW\Ex1\Ex2\bin\Debug\Ex2.exe
+M:\PW\Ex1\Ex2\bin\Debug\Ex2.pdb
+M:\PW\Ex1\Ex2\obj\Debug\Ex2.exe
+M:\PW\Ex1\Ex2\obj\Debug\Ex2.pdb
