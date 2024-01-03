@@ -1,0 +1,14 @@
+C:\Users\pc\Downloads\Lesson7\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\pc\Downloads\Lesson7\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\pc\Downloads\Lesson7\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\App.g.cs
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2_MarkupCompile.cache
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2_MarkupCompile.lref
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\MainWindow.baml
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2.g.resources
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\pc\Downloads\Lesson7\Exercise2\obj\Debug\Exercise2.pdb
