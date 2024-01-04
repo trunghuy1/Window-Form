@@ -1,0 +1,47 @@
+C:\Users\pc\Downloads\Lesson9\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\pc\Downloads\Lesson9\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\pc\Downloads\Lesson9\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\pc\Downloads\Lesson9\Exercise1\bin\Debug\EntityFramework.dll
+C:\Users\pc\Downloads\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Downloads\Lesson9\Exercise1\bin\Debug\EntityFramework.xml
+C:\Users\pc\Downloads\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.Form1.resources
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CopyComplete
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\pc\Downloads\Lesson9\Exercise1\obj\Debug\Exercise1.pdb
+D:\window d\Practice\Lesson9\Exercise1\bin\Debug\Exercise1.exe.config
+D:\window d\Practice\Lesson9\Exercise1\bin\Debug\Exercise1.exe
+D:\window d\Practice\Lesson9\Exercise1\bin\Debug\Exercise1.pdb
+D:\window d\Practice\Lesson9\Exercise1\bin\Debug\EntityFramework.dll
+D:\window d\Practice\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.dll
+D:\window d\Practice\Lesson9\Exercise1\bin\Debug\EntityFramework.xml
+D:\window d\Practice\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.xml
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.Form1.resources
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CopyComplete
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.exe
+D:\window d\Practice\Lesson9\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\bin\Debug\EntityFramework.dll
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\bin\Debug\EntityFramework.xml
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.Form1.resources
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.csproj.CopyComplete
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\HUY NGUYEN\Desktop\Lesson9\Exercise1\obj\Debug\Exercise1.pdb
