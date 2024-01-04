@@ -3,3 +3,11 @@ M:\PW\Ex1\Ex2\bin\Debug\Ex2.exe
 M:\PW\Ex1\Ex2\bin\Debug\Ex2.pdb
 M:\PW\Ex1\Ex2\obj\Debug\Ex2.exe
 M:\PW\Ex1\Ex2\obj\Debug\Ex2.pdb
+D:\window d\Practice\Lession1\Ex2\bin\Debug\Ex2.exe.config
+D:\window d\Practice\Lession1\Ex2\bin\Debug\Ex2.exe
+D:\window d\Practice\Lession1\Ex2\bin\Debug\Ex2.pdb
+D:\window d\Practice\Lession1\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+D:\window d\Practice\Lession1\Ex2\obj\Debug\Ex2.csproj.SuggestedBindingRedirects.cache
+D:\window d\Practice\Lession1\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+D:\window d\Practice\Lession1\Ex2\obj\Debug\Ex2.exe
+D:\window d\Practice\Lession1\Ex2\obj\Debug\Ex2.pdb

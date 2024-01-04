@@ -13,3 +13,19 @@ G:\EXC\WindowPractice\Lession5\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
 G:\EXC\WindowPractice\Lession5\Ex3\obj\Debug\Ex3.exe
 G:\EXC\WindowPractice\Lession5\Ex3\obj\Debug\Ex3.pdb
 G:\EXC\WindowPractice\Lession5\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+D:\window d\Practice\Lession5\Ex3\bin\Debug\Ex3.exe.config
+D:\window d\Practice\Lession5\Ex3\bin\Debug\Ex3.exe
+D:\window d\Practice\Lession5\Ex3\bin\Debug\Ex3.pdb
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.csproj.SuggestedBindingRedirects.cache
+D:\window d\Practice\Lession5\Ex3\obj\Debug\MainWindow.g.cs
+D:\window d\Practice\Lession5\Ex3\obj\Debug\App.g.cs
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3_MarkupCompile.cache
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3_MarkupCompile.lref
+D:\window d\Practice\Lession5\Ex3\obj\Debug\MainWindow.baml
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.g.resources
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.csproj.GenerateResource.cache
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.exe
+D:\window d\Practice\Lession5\Ex3\obj\Debug\Ex3.pdb

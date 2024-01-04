@@ -13,3 +13,11 @@ C:\Users\pc\Downloads\Lesson7\Exercise1\obj\Debug\Exercise1.csproj.GenerateResou
 C:\Users\pc\Downloads\Lesson7\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
 C:\Users\pc\Downloads\Lesson7\Exercise1\obj\Debug\Exercise1.exe
 C:\Users\pc\Downloads\Lesson7\Exercise1\obj\Debug\Exercise1.pdb
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\MainWindow.g.cs
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\App.g.cs
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\Exercise1_MarkupCompile.cache
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\Exercise1_MarkupCompile.lref
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\Exercise1.exe
+D:\window d\Practice\Lesson7\Exercise1\obj\Debug\Exercise1.pdb

@@ -32,3 +32,21 @@ G:\cloneNhut\Window-Programing\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.Generate
 G:\cloneNhut\Window-Programing\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.CoreCompileInputs.cache
 G:\cloneNhut\Window-Programing\Lesson6\Lesson6\obj\Debug\Lesson6.exe
 G:\cloneNhut\Window-Programing\Lesson6\Lesson6\obj\Debug\Lesson6.pdb
+D:\window d\Practice\Lesson6\Lesson6\bin\Debug\Lesson6.exe.config
+D:\window d\Practice\Lesson6\Lesson6\bin\Debug\Lesson6.exe
+D:\window d\Practice\Lesson6\Lesson6\bin\Debug\Lesson6.pdb
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.AssemblyReference.cache
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.SuggestedBindingRedirects.cache
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\MainWindow.g.cs
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\View\MainPage.g.cs
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\App.g.cs
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6_MarkupCompile.cache
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6_MarkupCompile.lref
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\MainWindow.baml
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\View\MainPage.baml
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.g.resources
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.Properties.Resources.resources
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.GenerateResource.cache
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.CoreCompileInputs.cache
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.exe
+D:\window d\Practice\Lesson6\Lesson6\obj\Debug\Lesson6.pdb
